@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "experiments": {
+      "bridgeless": false
+    },
+    "plugins": [
+      "expo-router"
+    ]
   }
 }
